@@ -33,6 +33,6 @@ By analyzing historical sales data, the project seeks to identify trends, foreca
 - Predicted demand trends useful for **inventory and production planning**.  
 
 ## 📂 Repository Structure
-Raw dataset -> simulated monthly sales data
-Jupyter Notebook with Python code -> Monthly_sales.ipynb
-Data Insights Presentation -> PT Monthly Sales Prediction.pdf
+- Raw dataset -> simulated monthly sales data
+- Jupyter Notebook with Python code -> Monthly_sales.ipynb
+- Data Insights Presentation -> PT Monthly Sales Prediction.pdf
